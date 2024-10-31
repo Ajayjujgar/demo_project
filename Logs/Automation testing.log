@@ -1536,3 +1536,36 @@
 2024-10-31 12:47:41,548 - INFO - root - test_Page3 -	99 - Password --->secret_saucee
 2024-10-31 12:47:43,549 - INFO - root - test_Page3 -	103 - The Web Title
 2024-10-31 12:47:43,653 - INFO - root - test_Page3 -	157 - Test_case test_user_login param_004 is Completed
+2024-10-31 22:32:27,993 - INFO - root - test_Page -	23 - Username --->standard_user
+2024-10-31 22:32:30,096 - INFO - root - test_Page -	27 - Password --->secret_sauce
+2024-10-31 22:32:32,110 - INFO - root - test_Page -	31 - The Web Title
+2024-10-31 22:32:32,321 - INFO - root - test_Page -	34 - screenshot pass
+2024-10-31 22:32:39,348 - INFO - root - test_Page_First -	48 - Username --->standard_user
+2024-10-31 22:32:41,499 - INFO - root - test_Page_First -	52 - Password --->secret_sauce
+2024-10-31 22:32:43,501 - INFO - root - test_Page_First -	55 - The Web Title
+2024-10-31 22:32:45,798 - INFO - root - test_Page_First -	60 - test_Add_to_card_second
+2024-10-31 22:32:45,861 - INFO - root - test_Page_First -	62 - test_Add_to_third
+2024-10-31 22:32:47,954 - INFO - root - test_Page_First -	65 - test_shop
+2024-10-31 22:32:48,101 - INFO - root - test_Page_First -	67 - test_checkout
+2024-10-31 22:32:50,221 - INFO - root - test_Page_First -	70 - test_First_name
+2024-10-31 22:32:50,327 - INFO - root - test_Page_First -	72 - test_Last_name
+2024-10-31 22:32:50,443 - INFO - root - test_Page_First -	74 - test_zip
+2024-10-31 22:32:52,561 - INFO - root - test_Page_First -	77 - test_button
+2024-10-31 22:32:52,651 - INFO - root - test_Page_First -	79 - test_Finish
+2024-10-31 22:32:52,670 - INFO - root - test_Page_First -	81 - Testcase Pass
+2024-10-31 22:32:59,327 - INFO - root - test_Page3 -	95 - Username --->standard_user
+2024-10-31 22:33:01,467 - INFO - root - test_Page3 -	99 - Password --->secret_sauce
+2024-10-31 22:33:03,470 - INFO - root - test_Page3 -	103 - The Web Title
+2024-10-31 22:33:03,818 - INFO - root - test_Page3 -	157 - Test_case test_user_login param_004 is Completed
+2024-10-31 22:33:07,828 - INFO - root - test_Page3 -	95 - Username --->standard_userr
+2024-10-31 22:33:09,939 - INFO - root - test_Page3 -	99 - Password --->secret_sauce
+2024-10-31 22:33:11,940 - INFO - root - test_Page3 -	103 - The Web Title
+2024-10-31 22:33:12,081 - INFO - root - test_Page3 -	157 - Test_case test_user_login param_004 is Completed
+2024-10-31 22:33:15,287 - INFO - root - test_Page3 -	95 - Username --->standard_user
+2024-10-31 22:33:17,373 - INFO - root - test_Page3 -	99 - Password --->secret_saucee
+2024-10-31 22:33:19,375 - INFO - root - test_Page3 -	103 - The Web Title
+2024-10-31 22:33:19,482 - INFO - root - test_Page3 -	157 - Test_case test_user_login param_004 is Completed
+2024-10-31 22:33:23,231 - INFO - root - test_Page3 -	95 - Username --->standard_userr
+2024-10-31 22:33:25,336 - INFO - root - test_Page3 -	99 - Password --->secret_saucee
+2024-10-31 22:33:27,339 - INFO - root - test_Page3 -	103 - The Web Title
+2024-10-31 22:33:27,450 - INFO - root - test_Page3 -	157 - Test_case test_user_login param_004 is Completed
